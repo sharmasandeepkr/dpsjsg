@@ -1,0 +1,22 @@
+{
+  "name": "Doon Public School",
+  "version": "1.0.0",
+  "description": "Doon Public School,Jharsuguda",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sandeep",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4"
+  
+    
+    
+  },
+  "devDependencies": {},
+  "keywords": [
+    "Doon Public School,Jharsuguda"
+  ]
+}
